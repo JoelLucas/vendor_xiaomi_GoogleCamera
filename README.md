@@ -6,4 +6,4 @@ $(call inherit-product-if-exists, vendor/xiaomi/GoogleCamera/config.mk)
 ```
 
 # Credits
-* [**Google Camera MOD by Google Camera Port**](https://www.celsoazevedo.com/files/android/google-camera/)
+* [**Google Camera GO**](https://www.apkmirror.com/apk/google-inc/camera-go/google-camera-go-3-8-482694574_release-release/)
