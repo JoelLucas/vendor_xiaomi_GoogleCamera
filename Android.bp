@@ -1,10 +1,12 @@
 soong_namespace {
+	imports: [
+	],
 }
 
 android_app_import {
 	name: "GoogleCamera",
 	owner: "xiaomi",
-	apk: "proprietarysystem/priv-app/GoogleCamera/GoogleCamera.apk",
+	apk: "proprietary/system/priv-app/GoogleCamera/GoogleCamera.apk",
 	overrides: [
         "Aperture",
         "Camera",
