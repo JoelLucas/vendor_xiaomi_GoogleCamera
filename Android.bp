@@ -15,9 +15,9 @@ android_app_import {
         "Snap",
         "SnapdragonCamera"
     ],
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
+    certificate: "platform",
+    dex_preopt: {
+        enabled: false,
+    },
+    privileged: true,
 }
